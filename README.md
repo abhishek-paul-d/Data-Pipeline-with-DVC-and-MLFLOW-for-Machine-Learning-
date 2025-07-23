@@ -16,6 +16,8 @@ An end-to-end machine learning pipeline demonstrating data versioning with DVC a
 
 ## Pipeline Stages
 
+<img width="1361" height="769" alt="Screenshot 2025-07-23 100124" src="https://github.com/user-attachments/assets/2f8c9158-f1a9-435e-aea3-d51dca0e575d" />
+
 ### 1. Preprocessing
 `src/preprocess.py`:
 - Reads raw data from `data/raw/data.csv`
